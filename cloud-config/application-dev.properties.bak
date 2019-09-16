@@ -1,4 +1,4 @@
-﻿server.port=7071
+﻿server.port=8081
 spring.application.name=provide1
 eureka.client.register-with-eureka=true
 eureka.client.fetch-registry=true
@@ -7,5 +7,5 @@ eureka.client.service-url.defaultZone=http://localhost:8080/eureka1/eureka
 eureka.instance.prefer-ip-address=true
 
 
-info.port=7071
+info.port=8081
 info.project=provide1
